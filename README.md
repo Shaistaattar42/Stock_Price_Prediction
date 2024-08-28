@@ -1,11 +1,11 @@
 # Stock_Price_Prediction
 Predicting future stock prices based on the history of the stocks using linear regression
 # Python modules used
-yfinance
-pandas
-numpy
-sklearn
-matplot
+yfinance ,
+pandas ,
+numpy ,
+sklearn ,
+matplot.
 # output
 history graph for tatasteel company
 
