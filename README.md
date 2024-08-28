@@ -7,9 +7,13 @@ numpy
 sklearn
 matplot
 # output
-history graph for infosys company
-![image](https://github.com/user-attachments/assets/248c761a-0adf-4357-a66c-0306db9dcaa5)
-predicted graph for infosys company
-![image](https://github.com/user-attachments/assets/8a0ca1fd-b492-4d4d-9524-83d19405ce96)
+history graph for tatasteel company
+
+![image](https://github.com/user-attachments/assets/df1d56ae-6e6f-4db2-ac03-35816b235155)
+
+predicted graph for tatasteel company
+
+![image](https://github.com/user-attachments/assets/9ab90f72-19b6-49d3-8e3b-7428aa89b6df)
+
 
 
